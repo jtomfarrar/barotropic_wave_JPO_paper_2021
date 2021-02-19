@@ -13,7 +13,12 @@
 % export_fig.m (https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
 % band_avg.m (also in repository)
 % ecolorbar.m by Jan Even Nilsen (a version is bundled with this code-- also see https://github.com/evenrev1)
+% xspec_matrix_1band_1pos.m (also in repository)
 %
+% barotropic_radiation_compute_l
+% landmask_tom
+% smooth_2d
+% plotBTRW_phase_line
 %
 %Revision history:
 % xspectra_aviso_basin4.m was version used for OSTST proposal plots
