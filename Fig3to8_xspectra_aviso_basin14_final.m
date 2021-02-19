@@ -14,11 +14,12 @@
 % band_avg.m (also in repository)
 % ecolorbar.m by Jan Even Nilsen (a version is bundled with this code-- also see https://github.com/evenrev1)
 % xspec_matrix_1band_1pos.m (also in repository)
-%
-% barotropic_radiation_compute_l
-% landmask_tom
-% smooth_2d
-% plotBTRW_phase_line
+% barotropic_radiation_compute_l.m (also in repository)
+% landmask_tom.m (also in repository)
+% smooth_2d.m (also in repository)
+% plotBTRW_phase_line.m (also in repository)
+% 
+% Requires: sw_betaplane.m from seawater toolbox (not provided but publicly available)
 %
 %Revision history:
 % xspectra_aviso_basin4.m was version used for OSTST proposal plots
