@@ -2,8 +2,15 @@ function [mask]=landmask_tom(SSH,lon,lat,dist);
 %[mask]=landmask_tom(SSH,lon,lat,dist);
 %
 %  Returns a landmask with NaNs for land and 
-%  zeros for no land on the grid of the input data
+%  zeros for no land on the grid of the input data.
+%  A variable additional masking distance can be specified. 
 %  
+%  Inputs:
+%	SSH-- data to be masked
+%	lon-- longitude (vector)
+%	lat-- latitude (vector)
+%	dist-- additional distance from coast to
+%		mask (specify in units of degrees)
 %
 % Tom Farrar, Feb 15, 2012
 %

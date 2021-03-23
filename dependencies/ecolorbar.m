@@ -64,7 +64,7 @@ function [h0,h1]=ecolorbar(D,L,label,W,hand)
 % [cs,h]=contourf(x,y,z,v); clabel(cs,h); ecolorbar(v);
 %
 % See also CONTOURF LEVELS
-
+%
 % ### Updates: ###
 % 00.10.17: Added options for "outside"- and "alone"-positioning 
 % 99.11.19: I think I found the solution for the color-span problem.
